@@ -17,7 +17,7 @@ img{
 }
 ul,
 ol{
-    padding-left: 30px;
+    padding-left: 35px;
 }
 body{
     background-color: hsl(30, 54%, 90%);
@@ -36,7 +36,7 @@ li{
     margin-top: 0.5rem;
 }
 .container{
-    max-width: 800px;
+    max-width: 700px;
     margin-inline: auto;
     background-color: #fff;
 }
@@ -94,7 +94,7 @@ li{
         border-radius: 1rem;
     }
     .banner h1{
-        font-size: 48px;
+        font-size: 36px;
     }
     img{
         border-radius: 1rem;
