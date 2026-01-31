@@ -1,11 +1,5 @@
-@font-face{
-    font-family: outfit;
-    src: url(/assets/fonts/outfit/static/Outfit-Regular.ttf);
-}
-@font-face{
-    font-family: youngserif;
-    src: url(/assets/fonts/young-serif/YoungSerif-Regular.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap')
+
 *{
     margin: 0;
     padding; 0;
