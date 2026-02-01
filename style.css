@@ -20,7 +20,7 @@ ol{
     padding-left: 35px;
 }
 ul, li: ::marker{
-    color: hsl(14, 45%, 36%);
+    color: rgb(185, 13%, 64%);
     padding-left: 35px;
 }
 body{
